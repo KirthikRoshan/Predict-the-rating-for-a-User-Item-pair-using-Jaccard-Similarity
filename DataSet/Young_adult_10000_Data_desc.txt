@@ -1,0 +1,17 @@
+Young_Adult_10000 Dataset
+
+Abstract: A collection of ratings and reviews obtained for the books read by different users in the library.
+
+Attribute Information:
+
+1. user_id : A unique user_id given to every new reader.
+2. book_id : A unique book_id for whcih is picked up by the user.
+3. review_id : ID generated when a user submits a review and rating.
+4. rating : Rating of the book given by the user.
+5. review_text : Given review by the user for the given book.
+6. date_added : Gives the date the book was added in the dataset.
+7. data_updated : Gives the date the user updated teh book in the dataset.
+8. read_at : Gives the date user started reading the book.
+9. started_at : ' '
+10. n_votes : Number of votes given to the user for the given rating and review.
+11. n_comments : Number fo comments given to the user for the given rating and review.
